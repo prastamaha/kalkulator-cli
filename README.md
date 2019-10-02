@@ -26,3 +26,7 @@ operator aritmatika yang dapat digunakan
 untuk keluar dari program, bisa gunakan karakter "x" diakhir output terakhir, misal:
 
     15x
+
+untuk menjalankan program, silahkan git clone repository ini, lalu jalankan perintah dibawah pada terminal
+
+    python3 app.py
